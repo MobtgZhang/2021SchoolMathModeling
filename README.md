@@ -39,8 +39,8 @@
 3. 对所有记录进行时序分析，挖掘舆情传播的特点和规律。
 
 # 解决方法和思路
-+ [主要解决方法(LDA主题模型、BM25HF-KMeans算法)]()
-+ [基于注意力机制的Att-BiGRU热点词汇预测问题]()
-+ [基于马尔科夫链热点值预测问题]()
++ [主要解决方法(LDA主题模型、BM25HF-KMeans算法)](https://github.com/MobtgZhang/2021SchoolMathModeling/tree/main/main)
++ [基于注意力机制的Att-BiGRU热点词汇预测问题](https://github.com/MobtgZhang/2021SchoolMathModeling/tree/main/att-gru)
++ [基于马尔科夫链热点值预测问题](https://github.com/MobtgZhang/2021SchoolMathModeling/tree/main/markov)
 
 
